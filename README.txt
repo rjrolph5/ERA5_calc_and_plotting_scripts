@@ -1,7 +1,19 @@
 
 
-### This README contains a brief description of scripts contained in this repo.
+### This repo contains scripts that calculate and plot seasonal means and trends of selected climate variables in the ERA5 Reanalysis dataset. 
+
+
+### Animations of example output (sea ice concentration) are given in the folder 'sea_ice_concentration'
+
 ### Example figures have been produced using the scripts below are contained also in this repo, under the directory : ERA5_plots/seasonal_trends
+
+
+### ERA5 data is from Copernicus Climate Change Service (C3S) (2017): ERA5: Fifth 
+### generation of ECMWF atmospheric reanalyses of the global climate . Copernicus Climate Change Service Climate Data Store (CDS), https://cds.climate.copernicus.eu/cdsapp#!/home
+
+
+
+### Brief description of scripts contained in this repo:
 
 # To calculate seasonal means of an ERA5 climate variable, use script below
 calculate_seasonal_means_climvars.py
