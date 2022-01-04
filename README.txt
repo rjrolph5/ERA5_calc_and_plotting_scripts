@@ -1,6 +1,8 @@
 
 
-### This repo contains scripts that calculate and plot seasonal means and trends of selected climate variables in the ERA5 Reanalysis dataset. 
+### This repo contains scripts that analyze large climate reanalysis datasets 
+### (ERA5). For example, you can use scripts in this repo to calculate and plot seasonal means and trends of selected 
+### climate variables or create a sea ice mask based on user-specified sea ice concentration data.
 
 
 ### Animations of example output (sea ice concentration) are given in the folder 'sea_ice_concentration'
