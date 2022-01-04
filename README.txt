@@ -21,7 +21,8 @@ calculate_seasonal_means_climvars.py
 # Plot the seasonal means and trends of the ERA5 cliamte variables you calculated in the script called 'calculate_seasonal_means_climvars.py'
 plot_seasonal_means_and_seasonal_trends.py
 
-
+# Create a sea ice mask (boolean) based on a user-defined sea ice concentration threshold
+make_sea_ice_mask.py
 
 
 
